@@ -2,7 +2,8 @@
     <v-container fluid>
       <!-- Add your work here -->
       <div>
-        Sup
+        <h1>Sandbox</h1>
+        <p>Sandbox for testing Vue</p>
       </div>
     </v-container>
   </template>
